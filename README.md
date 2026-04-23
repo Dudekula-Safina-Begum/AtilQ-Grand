@@ -73,20 +73,19 @@ However, the Power BI report, insights, and complete analysis are fully demonstr
 ---
 
 ## 🔗 Live Demo
-👉 Add Power BI Report Link
+👉[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDZlZGMxNDEtOGFlZS00MTE0LWI0YmItODVlYmZlYjVkNTJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🎥 Project Walkthrough
 👉 Add Video Link
 
-## 💻 GitHub Repository
-👉 Add GitHub Link
+
 
 ---
 
 ## 📷 Dashboard Preview
-main.JPG
-tooltip-1.JPG
-tooltip-2.JPG
+[main](main.JPG)
+[BOOKMARK-1](tooltip-1.JPG)
+[BOOKMARK-2](tooltip-2.JPG)
 
 ---
 
@@ -103,7 +102,7 @@ Safina Begum
 Aspiring Data Analyst | Power BI | SQL | Python  
 
 Email: safinabegum147@gmail.com  
-LinkedIn: Add Link
+[LinkedIn](https://www.linkedin.com/in/dudekula-safinabegum/)
 
 ---
 
