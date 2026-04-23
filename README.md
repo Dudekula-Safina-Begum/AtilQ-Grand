@@ -84,7 +84,9 @@ However, the Power BI report, insights, and complete analysis are fully demonstr
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+main.JPG
+tooltip-1.JPG
+tooltip-2.JPG
 
 ---
 
