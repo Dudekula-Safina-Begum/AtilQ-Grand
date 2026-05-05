@@ -75,11 +75,6 @@ However, the Power BI report, insights, and complete analysis are fully demonstr
 ## 🔗 Live Demo
 👉[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDZlZGMxNDEtOGFlZS00MTE0LWI0YmItODVlYmZlYjVkNTJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 🎥 Project Walkthrough
-👉 Add Video Link
-
-
-
 ---
 
 ## 📷 Dashboard Preview
